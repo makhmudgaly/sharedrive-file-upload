@@ -1,0 +1,23 @@
+{
+  "name": "sharedrive-file-upload",
+  "version": "1.0.0",
+  "description": "Testing out sending files to sharepoint programmatically using NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makhmudgaly/sharedrive-file-upload.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makhmudgaly/sharedrive-file-upload/issues"
+  },
+  "homepage": "https://github.com/makhmudgaly/sharedrive-file-upload#readme",
+  "dependencies": {
+    "spsave": "^4.0.2"
+  }
+}

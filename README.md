@@ -1,2 +1,2 @@
 # sharedrive-file-upload
-Testing out sending files to sharedrive programmatically using NodeJS
+Testing out sending files to sharepoint programmatically using NodeJS
